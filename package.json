@@ -1,0 +1,14 @@
+{
+  "name": "tools",
+  "version": "0.1.2",
+  "description": "",
+  "main": "tools.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT"
+}

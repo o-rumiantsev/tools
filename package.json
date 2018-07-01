@@ -1,7 +1,7 @@
 {
-  "name": "tools",
+  "name": "common-toolkit",
   "version": "0.1.2",
-  "description": "",
+  "description": "Collection of the most useful tools",
   "main": "tools.js",
   "directories": {
     "lib": "lib"
@@ -9,6 +9,7 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
+  "git repository": "https://github.com/o-rumiantsev/tools",
+  "author": "o-rumiantsev",
   "license": "MIT"
 }
